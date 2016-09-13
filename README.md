@@ -1,2 +1,2 @@
 # mlcells
-# mechine learning in cervical cancer screening
+# machine learning in cervical cancer screening
